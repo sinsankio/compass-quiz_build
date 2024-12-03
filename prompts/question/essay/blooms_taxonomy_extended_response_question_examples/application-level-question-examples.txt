@@ -1,0 +1,12 @@
+* APPLICATION LEVEL EXAMPLE QUESTIONS *
+
+01. Explain how the principles of the Enlightenment influenced the development of modern democratic governments. Use examples from at least two different countries to support your response.
+02. Discuss how the process of natural selection operates in the wild, and apply this concept to explain the development of antibiotic resistance in bacteria.
+03. Analyze the use of symbolism in one of William Faulkner's novels and explain how it contributes to the overall themes and messages of the work.
+04. Describe how the principles of electromagnetism are applied in the design and functioning of electric motors. Provide specific examples of where these motors are used in everyday life.
+05. Discuss the application of the separation of powers in the United States government. Explain how this principle helps to prevent the abuse of power and provide specific examples.
+06. Explain how the concept of comparative advantage can be used to understand international trade patterns. Use specific countries and industries to illustrate your points.
+07. Discuss how cognitive-behavioral therapy (CBT) can be applied to treat anxiety disorders. Provide examples of techniques used in CBT and how they help patients manage their symptoms.
+08. Analyze the impact of social media on interpersonal relationships and community building. Apply sociological theories to explain both positive and negative effects.
+09. Explain how geographic information systems (GIS) can be used to manage natural disasters. Provide examples of specific disasters and how GIS helped in their management.
+10. Discuss how the principles of object-oriented programming (OOP) can be applied to develop a software application for managing a library system. Include examples of classes, objects, and methods that would be used.

@@ -1,0 +1,12 @@
+* ANALYSIS LEVEL EXAMPLE STEMS *
+
+01. A sorting algorithm is used to arrange a list of elements in a specific order.  Analyze the strengths and weaknesses of two common sorting algorithms: Bubble Sort and Merge Sort.  Which statement is most accurate?
+02. A software program experiences a crash due to a memory access violation.  Analyze the potential causes of this error.  What is the most likely scenario?
+03. A network administrator observes a significant increase in network latency during peak usage hours.  Analyze two possible reasons for this phenomenon.  Which scenario is most likely causing the latency?
+04. A farmer notices that their corn crop is showing signs of wilt and yellowing leaves.  Analyze the potential causes of these symptoms.  What are two most likely explanations?
+05. A ball is thrown upwards into the air.  Analyze the forces acting on the ball at different points in its trajectory.  Which statement accurately describes the forces acting on the ball?
+06. A patient presents with symptoms of a fever, fatigue, and muscle aches.  Analyze the potential causes of these symptoms.  What are two most likely possibilities?
+07. A computer program is designed to calculate the area of a triangle.  The program takes the base and height of the triangle as input and multiplies them by 0.5.  Analyze the error in this program.  What is the mistake?
+08. A software development team is using a waterfall development methodology.  Analyze the advantages and disadvantages of this approach compared to an Agile methodology.  Which statement is most accurate?
+09. A company website is experiencing slow loading times for users located far away from its physical servers.  Analyze the potential causes of this geographical latency.  What is the most likely explanation?
+10. A farmer notices that a specific crop variety yields higher on the north side of a field compared to the south side. What are the potential factors that might be influencing this difference in yield?

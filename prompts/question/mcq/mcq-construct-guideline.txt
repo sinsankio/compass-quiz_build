@@ -1,0 +1,131 @@
+* MULTIPLE CHOICE TEST ITEMS *
+
+[INTRODUCTION]
+
+The multiple choice item consists of the stem, which identifies the question or problem and the response alternatives or choices. Usually, students are asked to select the one alternative that best completes a statement or answers a question. For example,
+
+Item Stem: Which of the following is a chemical change?
+
+Response Alternatives: 
+a. Evaporation of alcohol
+b. Freezing of water
+c. Burning of oil
+d. Melting of wax
+
+Multiple choice items are considered to be among the most versatile of all item types. They can be used to test factual recall as well as levels of understanding and ability to apply learning. As an example, the multiple choice item below is testing not only information recall but also the ability to use judgment in analyzing and
+evaluating.
+
+Multiple choice items can also provide an excellent basis for post test discussion, especially if the discussion addresses why the incorrect responses were wrong as well as why the correct responses were right. Unfortunately, multiple choice items are difficult and time-consuming to construct well. They may also appear too discriminating (picky) to students, especially when the alternatives are well constructed and are open to misinterpretation by students
+who read more into questions than is there.
+
+[SUGGESTIONS FOR WRITING MCQ TEST ITEMS]
+
+01. When possible, state the stem as a direct question rather than as an incomplete statement.
+
+EXAMPLE:
+    Undesirable: Alloys are ordinarily produced by…
+    Desirable: How are alloys ordinarily produced?
+
+02. Present a definite, explicit and singular question or problem in the stem.
+
+EXAMPLE:
+    Undesirable: Psychology…
+    Desirable: The science of mind and behavior is called…
+
+03. Eliminate excessive verbiage or irrelevant information from the stem.
+
+EXAMPLE:
+    Undesirable: While ironing her formal, Jane burned her hand accidentally on the hot iron. This was due to a transfer of heat between...
+    Desirable: Which of the following ways of heat transfer explains why Jane’s hand was burned after she touched a hot iron?
+
+04. Include in the stem any word(s) that might otherwise be repeated in each alternative.
+
+EXAMPLE:
+    Undesirable: In national elections in the United States the President is officially:
+        A. chosen by the people.
+        B. chosen by members of Congress.
+        C. chosen by the House of Representatives.
+        D. chosen by the Electoral College. (correct)
+
+    Desirable: In national elections in the United States the President is officially chosen by
+        A. the people.
+        B. members of Congress.
+        C. the House of Reps.
+        D. the Electoral college. (correct)
+
+05. Use negatively stated stems sparingly. When used, underline and/or capitalize the negative word.
+
+EXAMPLE:
+    Undesirable: Which of the following is not cited as an accomplishment of the Kennedy administration?
+    Desirable: Which of the following is NOT cited as an accomplishment of the Kennedy administration?
+
+        06. Make all alternatives plausible and attractive to the less knowledgeable or skillful student.
+
+EXAMPLE:
+    Undesirable: What process is most nearly the opposite of photosynthesis?
+        A. Digestion
+        B. Assimilation
+        C. Respiration (correct)
+        D. Catabolism
+
+    Desirable: What process is most nearly the opposite of photosynthesis?
+        A. Digestion
+        B. Relaxation
+        C. Respiration (correct)
+        D. Exertion
+
+07. Make the alternatives mutually exclusive.
+
+EXAMPLE:
+    Undesirable: The daily minimum required amount of milk that a 10-year-old child should drink is
+        A. 1-2 glasses.
+        B. 2-3 glasses. (correct)
+        C. 3-4 glasses. (correct)
+        D. at least 4 glasses.
+
+    Desirable: What is the daily minimum required amount of milk a 10-year-old child should drink?
+        A. 1 glass.
+        B. 2 glasses.
+        C. 3 glasses. (correct)
+        D. 4 glasses.
+
+08. Make alternatives approximately equal in length.
+
+EXAMPLE:
+    Undesirable: The most general cause of low individual incomes in the United States is:
+        A. lack of valuable productive services to sell. (correct)
+        B. unwillingness to work.
+        C. automation.
+        D. inflation.
+
+    Desirable: What is the most general cause of low individual incomes in the United States?
+        A. A lack of valuable productive services to sell. (correct)
+        B. The population’s overall unwillingness to work.
+        C. The nation’s increased reliance on automation.
+        D. An increasing national level of inflation.
+
+[THINGS TO REMEMBER ALWAYS]
+
+01. Use at least four alternatives for each item to lower the probability of getting the item correct by guessing.
+
+02. Use capital letters (A, B, C, D) as response signs rather than lowercase letters (“a” gets confused with “d” and “c” with “a” if the type or duplication is poor).
+
+03. Randomly distribute the correct response among the alternative positions throughout the test, having approximately the same proportion of alternatives A, B, C and D as the correct response.
+
+04. Avoid irrelevant clues such as grammatical structure, well known verbal associations or simplistic connections between stem and answer.
+
+05. When possible, present alternatives in some logical order (e.g. chronological, most to least, alphabetical).
+
+06. Use the alternatives none of the above and all of the above sparingly. When used, such alternatives should occasionally be used as the correct response.
+
+07. In testing for definitions, use the term in the stem rather than as an option.
+
+08. List alternatives on separate lines (rather than including the options as part of the stem) so that all options can be clearly distinguished.
+
+09. Keep all alternatives in a similar format (i.e., all phrases, all sentences, etc.).
+
+10. Try to make alternatives for an item approximately the same length. (Making the correct response consistently longer is a common error.)
+
+11. Use misconceptions students have indicated in class or errors commonly made by students in the class as the basis for incorrect alternatives.
+
+12. Way to judge a good stem: students who know the content should be able to answer before reading the alternatives.

@@ -1,0 +1,24 @@
+* Introduction to Bloom’s Taxonomy *
+
+Bloom’s taxonomy was developed to provide a common language for teachers to discuss and exchange learning and assessment methods. Specific learning outcomes can be derived from the taxonomy, though it is most commonly used to assess learning on a variety of cognitive levels. The diagram below defines each cognitive level from higher- to lower-order thinking.
+
+[DIAGRAM]
+
+Evaluation (top most)
+	^
+	|
+Synthesis
+	^
+	|
+Analysis
+	^
+	|
+Application
+	^
+	|
+Comprehension
+	^
+	|
+Knowledge (bottom most)
+
+The goal of an educator’s using Bloom’s taxonomy is to encourage higher-order thought in their students by building up from lower-level cognitive skills. Behavioral and cognitive learning outcomes are given to highlight how Bloom’s taxonomy can be incorporated into larger-scale educational goals or guidelines. The key phrases can be used (e.g., Example Assessments) to prompt for these skills during the assessment process.

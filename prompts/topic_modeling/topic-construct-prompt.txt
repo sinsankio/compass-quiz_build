@@ -1,0 +1,67 @@
+You're a helpful assistant who is expertised in topic modeling and construction. 
+
+You are provided with a detailed topic modeling output from a trained Latent Dirichlet Allocation (LDA) model. Together with that, you are provided with the specific context which the modeled topics belong to. Your task is to generate a meaningful textual topic after going through both of the context and provided topic modeling output. You are only enough to generate the response by only indicating appropriate meaningful topic name instead of any further details and explanations. Remember that, your output response ALWAYS SHOULD be in JSON format.
+
+Here is the topic modeling output from the LDA model:
+
+{{ topic_modeling_output }}
+
+Here is the context description where above topic modelings are inherited from:
+
+{{ context }}
+
+```
+Here are the guidelines you SHOULD ALWAYS follow when constructing your final answer:
+
+* final answer SHOULD ALWAYS BE A JSON OBJECT
+* you final JSON object answer SHOULD ALWAYS follow below format of attributes and values
+
+    {
+        "topic": (most applicable topic name for both of the given context and topic modeling output)
+    } 
+* YOU ARE EXTREMELY NOT ALLOWED TO INCLUDE ANY DESCRIPTION/EXPLANATION WITHIN YOUR FINAL ANSWER EXCEPT THE JSON OBJECT
+```
+
+```
+Here are some of the examples which explains you about possible inputs and expected answers for given inputs respectively. 
+
+* Example 01
+
+inputs: 
+	context: Computer Science
+	topic modeling output: 0.473*"ax" + 0.035*"max" + 0.007*"mb" + 0.006*"scsi" + 0.006*"windows" + 0.006*"dos" + 0.006*"drive" + 0.006*"pl" + 0.004*"tm" + 0.004*"disk"
+output: ```json {
+	"topic": "Operating Systems and Storage Management"
+}```
+
+* Example 02
+
+inputs: 
+	context: Introduction to Management
+	topic modeling output: 0.049*"quality" + 0.037*"product" + 0.025*"management" + 0.019*"service" + 0.019*"characteristics" + 0.013*"transforms" + 0.013*"manufacturing" + 0.013*"operations" + 0.013*"tqm" + 0.013*"total"
+output: ```json {
+	"topic": "Ensuring Quality of Products and Services"
+}```
+
+* Example 03
+
+inputs:
+	context: Computer Networking
+	topic modeling output: 0.053*"ms" + 0.053*"suhail" + 0.053*"razeeth" + 0.025*"data" + 0.025*"network" + 0.022*"networks" + 0.020*"signal" + 0.016*"internet" + 0.013*"server" + 0.013*"device"
+output: ```json {
+	"topic": "Data Transmission over Networks"
+}```
+
+* Example 04
+
+inputs:
+	context: Computer Networking
+	topic modeling output: 0.065*"network" + 0.035*"razeeth" + 0.035*"ms" + 0.035*"suhail" + 0.023*"switch" + 0.019*"hub" + 0.019*"area" + 0.018*"topology" + 0.014*"one" + 0.012*"data"', '0.054*"ms" + 0.054*"suhail" + 0.054*"razeeth" + 0.036*"services" + 0.019*"internet" + 0.018*"lines" + 0.018*"network" + 0.018*"resource" + 0.018*"wan" + 0.018*"area"', '0.040*"data" + 0.035*"suhail" + 0.035*"razeeth" + 0.035*"ms" + 0.025*"devices" + 0.020*"network" + 0.020*"home" + 0.020*"internetworking" + 0.020*"networking" + 0.020*"communication"', '0.055*"server" + 0.037*"ms" + 0.037*"suhail" + 0.037*"razeeth" + 0.035*"logic" + 0.033*"data" + 0.025*"architecture" + 0.025*"client" + 0.020*"application" + 0.020*"access"', '0.026*"load" + 0.026*"suhail" + 0.026*"razeeth" + 0.026*"ms" + 0.026*"ip" + 0.014*"disadvantages" + 0.014*"advantages" + 0.014*"network" + 0.014*"server" + 0.014*"architecture"', '0.029*"one" + 0.022*"razeeth" + 0.022*"ms" + 0.022*"suhail" + 0.015*"networks" + 0.015*"networking" + 0.015*"system" + 0.015*"work" + 0.015*"router" + 0.015*"data"', '0.038*"data" + 0.029*"hub" + 0.029*"signal" + 0.020*"different" + 0.020*"connects" + 0.020*"razeeth" + 0.020*"ms" + 0.020*"suhail" + 0.020*"device" + 0.020*"source"', '0.003*"switch" + 0.003*"one" + 0.003*"suhail" + 0.003*"example" + 0.003*"receive" + 0.003*"communication" + 0.003*"data" + 0.003*"razeeth" + 0.003*"ms" + 0.003*"half"', '0.033*"networks" + 0.026*"internet" + 0.026*"address" + 0.021*"suhail" + 0.021*"razeeth" + 0.021*"ms" + 0.020*"ip" + 0.020*"called" + 0.020*"protocol" + 0.020*"network"', '0.039*"razeeth" + 0.031*"network" + 0.031*"ms" + 0.031*"suhail" + 0.024*"data" + 0.024*"area" + 0.024*"device" + 0.024*"lan" + 0.016*"types" + 0.016*"modem"
+output: ```json {
+	"topic": "Designing Local Area Networks (LANs) with Switches and Hubs"
+}```
+```
+
+Begin!
+
+Final Answer in JSON Format: 

@@ -1,0 +1,12 @@
+* APPLICATION LEVEL EXAMPLE QUESTIONS *
+
+01. Describe two strategies employed by Alexander the Great that contributed to his success in building his empire.
+02. Explain the process of photosynthesis, focusing on how light energy is converted into chemical energy in plants.
+03. Compare and contrast the themes of love and betrayal in Shakespeare's "Romeo and Juliet" and "Othello".
+04. Discuss Newton's three laws of motion and provide real-life examples of each law in action.
+05. Analyze two reasons why democratic institutions are crucial for maintaining political stability in a diverse society.
+06. Describe two ways in which the principle of supply and demand affects pricing decisions in a free-market economy.
+07. Apply the concept of classical conditioning to explain how phobias can develop in individuals.
+08. Discuss two social factors that contribute to the persistence of poverty in urban communities.
+09. Explain the impact of climate change on global weather patterns and provide examples of regions affected by these changes.
+10. Describe two algorithms commonly used for sorting data and compare their efficiency in terms of time complexity.

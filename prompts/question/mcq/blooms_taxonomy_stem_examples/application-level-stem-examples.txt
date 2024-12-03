@@ -1,0 +1,12 @@
+* APPLICATION LEVEL EXAMPLE STEMS *
+
+01. A company wants to develop a mobile app that allows users to edit photos. They need to choose a data structure to efficiently store and manipulate image edits. Which data structure would be most suitable for this application?
+02. You are working on a software project with a tight deadline. You identify a critical bug that requires fixing, but fixing it will also introduce a new feature that is not essential for the current release. What should you do according to the Agile development methodology?
+03. A company is experiencing slow internet connection speeds during peak hours. They suspect this might be due to network congestion.  What troubleshooting step could help identify the source of the congestion?
+04. A farmer wants to improve the nitrogen content in the soil for their corn crop. Which of the following practices would be the most effective application of crop rotation principles?
+05. A baseball pitcher throws a fastball towards the batter.  According to Newton's second law of motion (F=ma), what happens to the speed of the ball after it is released from the pitcher's hand?
+06. A patient is infected with a bacterial disease. The doctor prescribes an antibiotic medication. How does the antibiotic work to fight the bacterial infection?
+07. A programmer wants to write a program that calculates the area of different shapes.  Which programming concept would be most useful to implement this program efficiently?
+08. A software developer is writing unit tests for a function that calculates the factorial of a number.  What should be the primary focus of the unit tests for this function?
+09. A company wants to allow secure remote access to its internal network for employees working from home. Which technology would be most suitable for this application?
+10. A scientist is studying the effects of a new drug on a specific type of cancer cell.  What research method could be used to test the effectiveness of the drug in killing cancer cells?

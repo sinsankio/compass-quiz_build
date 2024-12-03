@@ -1,0 +1,12 @@
+* SYNTHESIS LEVEL EXAMPLE STEMS *
+
+01. A new mobile game requires real-time interaction between players in a virtual world. How do you design a data structure that efficiently stores and updates the positions and actions of multiple players within the game world?
+02. A research team is developing a new wearable health monitoring device.  Propose a software design for this device that collects and analyzes physiological data, identifies potential health issues, and transmits data securely for remote monitoring from the options below.
+03. A university campus wants to improve the network security for student dorms while maintaining a user-friendly experience for residents.  How to develop a network security solution that balances security and ease of use?
+04. A farmer wants to develop a sustainable agricultural practice for a specific crop that minimizes environmental impact and maximizes yield.  Select a design plan that incorporates crop rotation, soil conservation techniques, and natural pest control methods.
+05. A team of engineers is designing a new type of energy-efficient building.  Propose a plan that utilizes physics principles to reduce energy consumption for heating and cooling.
+06. Scientists are researching new treatments for cancer.  Which is the best potential treatment strategy that combines targeted drug delivery with immunotherapy to improve the effectiveness of cancer treatment from below set of options?
+07. A social media platform wants to personalize user experiences by recommending content based on individual interests.  How do you design an algorithm that analyzes user data and suggests relevant content?
+08. A software company is developing a new e-commerce platform that prioritizes user experience and scalability.  Suggest best of one of the provided software architectures that can handle high volumes of traffic and product data efficiently from the options below.
+09. A city is planning to implement a smart city infrastructure with interconnected sensors and devices for traffic management, environmental monitoring, and public safety.  Propose the most secure and reliable communication network for this smart city initiative.
+10. A team of engineers is designing a new type of solar cell that can capture a broader range of sunlight wavelengths to improve energy conversion efficiency.  What would be the best potential approach for this solar cell design?

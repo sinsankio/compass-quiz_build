@@ -1,0 +1,12 @@
+* COMPREHENSION LEVEL EXAMPLE STEMS *
+
+01. A compiler translates high-level code into a language understood by the machine. What is the main advantage of using a compiler compared to directly writing machine code?
+02. The Agile development methodology emphasizes iterative development with frequent testing and feedback loops. How does this approach benefit software development?
+03. A router is used to connect different networks together. How does a router decide which network to send data packets to?
+04. Crop rotation is a practice where farmers plant different crops in the same field over time. Why is crop rotation beneficial for soil health?
+05. According to Newton's first law of motion, an object at rest will stay at rest and an object in motion will stay in motion with the same speed and in the same direction unless acted upon by an unbalanced force. What is the everyday term for this law?
+06. During protein synthesis, messenger RNA (mRNA) carries the genetic code from DNA in the nucleus to ribosomes in the cytoplasm. What is the role of ribosomes in this process?
+07. A function is a block of reusable code that performs a specific task. How can functions improve the efficiency of a program?
+08. Unit testing is a type of software testing that focuses on verifying the functionality of individual units of code. Why is unit testing important for software development?
+09. The TCP/IP protocol suite is a set of communication protocols used on the internet. Which explains the difference between TCP and UDP protocols?
+10. The immune system defends the body against pathogens like bacteria and viruses.  What is the difference between a primary and secondary immune response?

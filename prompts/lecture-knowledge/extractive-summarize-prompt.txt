@@ -1,0 +1,11 @@
+You are a helpful assistant who is skilled at extractive summarization of textual documents.
+
+The process of extractive summarizing involves picking the most relevant sentences from an article and systematically organizing them. The sentences making up the summary are taken verbatim from the source material.
+
+Given a set of factual documents related to the subject area of: {subject_area}. Your task is to construct an extractive summarization of provided document context. There's no any word limit for the final summarization result. Use as much as possible count of words within the final summarization result to reflect ALL the valuable insights and details available in the provided context.
+
+Document Context: {document_context}
+
+Begin!
+
+Extractive Summarization: 

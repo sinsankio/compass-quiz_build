@@ -1,0 +1,16 @@
+from enum import Enum
+
+
+class McqBloomsTaxonomyLevel(str, Enum):
+    KNOWLEDGE = "KNOWLEDGE"
+    COMPREHENSION = "COMPREHENSION"
+    APPLICATION = "APPLICATION"
+    ANALYSIS = "ANALYSIS"
+    SYNTHESIS = "SYNTHESIS"
+    EVALUATION = "EVALUATION"
+
+
+class EssayBloomsTaxonomyLevel(str, Enum):
+    APPLICATION = "APPLICATION"
+    SYNTHESIS = "SYNTHESIS"
+    EVALUATION = "EVALUATION"

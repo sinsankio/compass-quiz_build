@@ -1,0 +1,100 @@
+* ESSAY TEST ITEMS *
+
+[INTRODUCTION]
+
+Essay tests present a realistic task to the student. In real life, a person is required to organize and communicate thoughts rather than respond to multiple choice questions.
+
+A typical essay test usually consists of a small number of questions to which the student is expected to recall and organize knowledge in logical, integrated answers. An essay test item can be an extended response item or a short answer item. An example of each type follows,
+
+Extended Response: Compare the writings of Bret Harte and Mark Twain in terms of settings, depth of characterization, and dialogue styles of their main characters. (10 pts. 20 minutes)
+
+Short Answer: Identify research methods used to study the S-R (Stimulus-Response) and S-O-R ( Stimulus-Organism-Response) theories of personality. (5 pts. 10 minutes)
+
+The main advantages of essay and short answer items are that they permit students to demonstrate achievement of such higher level objectives as analyzing and critical thinking. Written items offer students the opportunity to use their own judgment, writing styles, and vocabularies. They are less time consuming to prepare than any other item type.
+
+Research indicates that students study more efficiently for essay type examinations than for selection (multiple choice) tests. Students preparing for essay tests focus on broad issues, general concepts, and interrelationships rather than on specific details. This studying results in somewhat better student performance regardless of the type of exam they are given. Essay tests also give the instructor an opportunity to comment on students' progress, the quality of their thinking, the depth of their understanding, and the difficulties they may be having.
+
+Essay tests consisting only of written items permit only a limited sampling of content learning due to the time required for students to respond. Essay items are not efficient for assessing knowledge of basic facts and provide students more opportunity for bluffing, rambling, and snowing than limited choice items. They favor students who possess good writing skills and neatness. They are pitfalls for students who tend to go off on tangents or misunderstand the main point of the question.
+
+
+[SUGGESTIONS FOR WRITING ESSAY TEST ITEMS]
+
+01. Formulate the question so that the task is clearly defined for the student:
+
+Use words that aim the student to the approach you want them to take. Words like discuss and explain can be ambiguous. If you use discuss, then give specific instructions as to what points should be discussed.
+
+EXAMPLE:
+    Undesirable: Discuss Karl Marx’s philosophy
+    Desirable: Compare Marx and Nietzsche in their analysis of the underlying problems of their day in 19th century European society.
+
+
+02. Pay attention to the number of items: 
+
+In order to obtain a broader sampling of course content, use a relatively large number of questions requiring shorter answers (one-half page) rather than just a few questions involving long answers (2-3 pages).
+
+
+03.  Avoid the use of optional questions on an essay test: 
+
+When students answer different questions, they are actually taking different tests. If there are five essay questions and students are told to answer any three of them, then there are ten different tests possible. It makes it difficult to discriminate between the student who could respond correctly to all five, and the student who could answer only three. 
+
+Use of optional questions also affects the reliability of the scoring. If we are going to compare students for scoring purposes, then all students should perform the same tasks. Another problem is that students may not study all the course material if they know they will have a choice among the questions.
+
+
+04.  Write essay items at different levels of learning: 
+
+The goal is to write essay items that measure higher cognitive processes. The item should represent a situation that tests the student’s ability to use knowledge in order to analyze, justify, explain, contrast, evaluate, and so on. 
+
+Try to use verbs that elicit the kind of thinking you want the students to demonstrate. Instructors often have to use their best judgment about what cognitive skill each question is measuring. Ask a colleague to read the questions and classify them according to Bloom’s taxonomy.
+
+
+05. Choose a scoring model: 
+
+The major task in scoring essay tests is to maintain consistency, to make sure that answers of equal quality are given the same number of points. There are two approaches to scoring essay items: (1) analytic or point method and (2) holistic or rating method.
+
+i. ANALYTIC: Before scoring, prepare an ideal answer in which the major components are defined and assigned point values. Read and compare the student’s answer with the model answer. If all the necessary elements are present, the student receives the maximum number of points. Partial credit is given based on the elements included in the answer. In order to arrive at the overall exam score, the instructor adds the points earned on the separate questions.
+
+ii. HOLISTIC: This method involves considering the student’s answer as a whole and judging the total quality of the answer relative to other student responses or the total quality of the answer based on certain criteria that you develop.
+
+
+[Standard Phrases for Writing Essay Test Items]
+
+01. Agreement or Disagreement: The student is being asked to assert and support a thesis with evidence.
+
+02. Analyze: Analyzing is a picking apart of the whole.
+
+03. Classification and Division: Grouping items into a category according to a consistent principle.
+
+04. Compare/Contrast: Comparing shows similarities, while contrasting points out differences.
+
+05. Cause and Effect: Establishes a link between two things and also to describe the outcome.
+
+06. Define: Consists of three parts: term, class, and differentiating characteristics.
+
+07. Define and give an example of: Asks students to not only define the term, but to supply an example.
+
+08. Describe: Requires students to explain something in detail.
+
+09. Discuss: Too vague and may elicit vague, overgeneralized, unsupported responses.
+
+10. Illustrate: Give examples and/or analogies to demonstrate a particular process/idea or steps in a series.
+
+11. Summarize: The overall view of some process, speech, play, concept, etc.
+
+
+[THINGS TO REMEMBER ALWAYS]
+
+01. Make essay questions comprehensive rather than focused on small units of content.
+
+02. Provide clear directions as to the expectations.
+
+03. Allow students an appropriate amount of time. (It is helpful to give students some guidelines on how much time to use on each question, as well as the desired length and format of the response, such as full sentences, phrases only, outline, etc.)
+
+04. Inform students, in advance of answering the questions, of the proportional value of each item in comparison to the total grade.
+
+05. Require students to demonstrate command of background information by asking them to provide supporting evidence for claims and assertions.
+
+06. Students should be informed about how you treat such things as misspelled words, neatness, handwriting, grammar, etc.
+
+07. Decide how to treat irrelevant or inaccurate information contained in students’ answers.
+
+08. Write comments on the students’ answers. Teacher comments make essay tests a good learning experience for students. Comments serve to refresh your memory should the student question the grade.
